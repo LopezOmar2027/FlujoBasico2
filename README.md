@@ -12,10 +12,10 @@ Forma que se categoriza o organiza la informacion en una base de datos esta tien
 Una conexion entre la informacion y datos de difentes tablas.
 
 #¿Que representa una columna en el contexto de Base De Datos Relacionales?
-Aquella que tiene lo mas importante de los datos.
+Un atributo o caracteristica de la informacion de los datos.
 
 #¿Que representa un renglon en el contexto de Base De Datos Relacionales?
-Es un tipo de clave para poder resguardar o ubicar datos o informacion.
+Es un registro completo para poder resguardar o ubicar datos o informacion.
 
 #¿Que es un motor de base de datos relacional?
 Es el que organiza todo asi como la informacion y categoria , datos del usuario entre mas cosas este 
